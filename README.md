@@ -69,6 +69,25 @@ This project demonstrates:
 - Senior-level problem framing
 - Clean, recruiter-friendly organization
 
+## Assumptions & Definitions
+- Churned customer: no purchase in the last 90 days
+- At-risk customer: last purchase between 60–90 days
+- Active customer: purchase within the last 60 days
+- Revenue: sum of successful payment amounts
+- Cohorts: grouped by customer signup month
+
+## Key Insights
+- A small percentage of customers contribute the majority of revenue
+- Certain cohorts show faster revenue decay over time
+- Funnel drop-offs are highest between checkout and purchase
+- Churned users represent a significant revenue loss opportunity
+
+## Business Decisions Enabled
+- Prioritize retention campaigns for at-risk customers
+- Invest in high-performing acquisition cohorts
+- Optimize checkout experience to reduce funnel drop-off
+- Focus loyalty programs on high-LTV customers
+
 ## Outcome
 This analysis helps:
 - Identify revenue drivers
